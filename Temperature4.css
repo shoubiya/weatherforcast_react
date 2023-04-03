@@ -1,0 +1,60 @@
+.temper2{
+    height: 250px;
+    width: 645px;
+    background-color:black;
+   opacity: 0.6;
+   margin-left: 700px;
+   margin-top:  -520px;
+   border-radius: 10px;
+
+
+}
+.temper21{
+    font-size: xx-large;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.temper21h1{
+    color: white;
+    margin-top: -20px;
+    margin-left: 50px;
+}
+.temper21h3{
+color: white;
+margin-top: 10px;
+margin-left: 50px;
+}
+
+.values{
+    display: flex;
+    margin-left: 50px;
+    gap: 30px;
+    margin-top: -15px;
+
+}
+.tempv
+{ color: azure;
+    display: inline-flex;
+}
+.tempp{
+    /* margin-left:200px; */
+    margin-top: -160px;
+    font-size: xx-large;
+
+
+}
+.temptime{
+    /* margin-left:50px; */
+    margin-top: -140px;
+    color: white; 
+}
+.tempp1{
+    margin-top: -160px;
+    font-size:xx-large ;
+}
+.tempp1time{
+    margin-top: -140px;
+    color: white; 
+
+    
+}

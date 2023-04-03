@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2020/03/06/21/08/illustration-4908159_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inputtemp{
+    background: transparent;
+    height: 26px;
+    width: 461px;
+    padding-left: 25px;
+    border-radius: 20px;
+    border: 1 px solid black;
+    margin-top: 40px;
+    margin-left: 450px
+}
+
+.icontemp{
+  position: absolute;
+  margin-top: 45px;
+  margin-left: 900px;
+}

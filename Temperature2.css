@@ -1,0 +1,28 @@
+.temper12{
+   height: 250px; 
+   width: 645px;
+   background-color:black;
+   opacity: 0.6;
+   margin-left: 15px;
+   margin-top: 80px;
+   border-radius: 10px;
+   gap: 20px;
+   
+
+}
+ .temper12 .temper12h1{
+   color: white;
+   padding-top: 50px;
+   margin-left: 225px;
+   
+}
+.temper12 .temper12h3{
+   color: white;
+   padding-top: 1px;
+   margin-left: 210px;
+}
+.temper12 .temper12h4{
+   color: white;
+   padding-top: -20px;
+   margin-left: 230px;
+}

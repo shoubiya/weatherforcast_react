@@ -1,0 +1,76 @@
+.tempera1{
+    height: 210px;
+    width: 1325px;
+    background-color:black;
+   opacity: 0.8;
+   margin-left: 20px;
+   margin-top:30px;
+   border-radius: 10px;
+   display: flex;
+   gap: 15px;
+}
+.cc{
+    display: inline-flex;
+    font-size:xx-large ;
+    margin-top: -20px;
+    margin-left: 65px;
+}
+.temperalone{
+    color:#e62e00;
+    margin-top: 5px;
+    margin-left: 64px;
+    gap: 10px;
+
+}
+.pcelsius{
+color: white;
+margin-left: 40px;
+margin-top: -20px;
+font-weight: bolder;
+}
+.prain{
+    color: white;
+    margin-left: 75px;
+margin-top: -2px;
+font-weight: bolder;
+}
+.pmoderate{
+    color: white;
+    margin-left: 58px;
+margin-top: -2px;
+font-weight: bolder;
+}
+.temperal1{
+    margin-left:10px;
+    /* margin-top: 10px; */
+}
+.temperal2{
+    margin-left: 190px;
+    margin-top: -209px;
+}
+.temperal3{
+    margin-left: 380px;
+    margin-top: -209px;  
+}
+.temperal4{
+    margin-left: 570px;
+    margin-top: -209px;  
+}
+.temperal5{
+    margin-left: 760px;
+    margin-top: -209px;  
+}
+.temperal6{
+    margin-left: 950px;
+    margin-top: -201px;  
+}
+.temperal7{
+    margin-left: 1130px;
+    margin-top: -209px;  
+}
+.temperalsix{
+    margin-left: 70px;
+    color: #e62e00;
+}
+
+
